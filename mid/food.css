@@ -1,0 +1,62 @@
+*{
+	font-family:'Kodchasan', sans-serif;
+}
+body {
+    background: #FFF6E8 ;
+}
+h2{
+    font-family: 'Kodchasan', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    color:#10254D;
+}
+img{
+    width: 20%;
+    border-radius: 10%;  
+}
+.image {
+    display: flex;
+    justify-content: center;
+}
+.pic {
+    display: flex;
+    justify-content: center;
+}
+p  {
+    color:#10254D;
+    font-family: 'Kodchasan', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.box {
+    background:#FFDFAE ;
+    border-radius: 20px;
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+    display: flex;
+    justify-content: left;
+
+}
+ul {
+    color:#10254D;
+    font-family: 'Kodchasan', sans-serif;
+    font-size: 18px;
+}
+
+ol {
+    color:#10254D;
+    font-family: 'Kodchasan', sans-serif;
+    font-size: 18px;
+}
+
+hr{
+    height: 15px;
+    color:#FFBD59 ;
+    background-color: #FFBD59;
+    border: none;
+}
+

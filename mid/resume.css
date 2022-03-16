@@ -1,0 +1,16 @@
+.main-container {
+    max-width: 1200px;
+    padding-top: 0px;
+    margin: auto;
+    text-align: center;
+}
+.resume {
+    margin-top: 10px;
+    width: 70%;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+}
+img {
+    border-radius: 5px;
+    width: 1500px;
+}
